@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gaterjv</string>
+    <string name="el_name">Desejo</string>
+    <string name="preco_formato">Preço:Kz</string>
+</resources>
